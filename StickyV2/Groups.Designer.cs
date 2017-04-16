@@ -37,9 +37,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(72, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(143, 13);
+            this.label1.Size = new System.Drawing.Size(72, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Click to open a groups board";
+            this.label1.Text = "Open a group";
             // 
             // linkLabel1
             // 

@@ -10,3 +10,4 @@ c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\
 c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Signup.resources
 c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Groups.resources
 c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Projects.resources
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Board.resources

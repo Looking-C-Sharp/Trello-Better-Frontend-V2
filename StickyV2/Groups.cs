@@ -28,7 +28,7 @@ namespace StickyV2
                 LinkLabel label = new LinkLabel();
                 label.Text = groups[i];
                 label.Location = new System.Drawing.Point(70, 60 + 25 * i);
-                label.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.openProject);
+                label.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.openGroup);
                 labels.Add(label);
                 this.Controls.Add(label);
             }
@@ -45,7 +45,7 @@ namespace StickyV2
             return groups;
         }
 
-        private void openProject(object sender, LinkLabelLinkClickedEventArgs e)
+        private void openGroup(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Projects p = new Projects();
             p.Show();
