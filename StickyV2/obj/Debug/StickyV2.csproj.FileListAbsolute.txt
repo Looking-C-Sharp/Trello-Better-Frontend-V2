@@ -1,0 +1,12 @@
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\bin\Debug\StickyV2.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\bin\Debug\StickyV2.exe
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\bin\Debug\StickyV2.pdb
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Properties.Resources.resources
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.csproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.exe
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.pdb
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Login.resources
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Signup.resources
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Groups.resources
+c:\users\luke\documents\visual studio 2015\Projects\StickyV2\StickyV2\obj\Debug\StickyV2.Projects.resources
